@@ -7,7 +7,7 @@ export const locales = {
   fr: "French",
 };
 
-export const defaultLocale = "fr";
+export const defaultLocale = "en";
 
 i18n.loadLocaleData({
   en: { plurals: en },

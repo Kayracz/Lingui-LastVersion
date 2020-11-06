@@ -1,5 +1,6 @@
 import "./App.css";
 import { Trans } from "@lingui/macro";
+import LanguageSelector from "./LanguageSelector";
 
 function App() {
 	return (

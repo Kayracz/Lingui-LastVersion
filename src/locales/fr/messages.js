@@ -1,1 +1,1 @@
-/*eslint-disable*/module.exports={messages:{"HELLOO":"COUCOUUU","it's me.":"C'est moi."}};
+/*eslint-disable*/module.exports={messages:{"Me":"C'est moi.","Salute":"COUCOUUU"}};

@@ -2,8 +2,6 @@ import "./App.css";
 import { Trans } from "@lingui/macro";
 import LanguageSelector from "./LanguageSelector";
 
-
-
 const App = () => {
 	return (
 		<div className="App">

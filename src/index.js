@@ -5,7 +5,6 @@ import { i18n } from "@lingui/core";
 import { getLocale, dynamicActivate } from "./i18n";
 import App from "./App";
 
-console.log("Loading locales...");
 dynamicActivate(getLocale());
 
 const Translation = () => {

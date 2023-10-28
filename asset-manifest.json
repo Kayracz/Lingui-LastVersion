@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c0043cc.css",
-    "main.js": "/static/js/main.a3c27537.js",
-    "static/js/311.b77f2172.chunk.js": "/static/js/311.b77f2172.chunk.js",
-    "static/js/11.f1bf946b.chunk.js": "/static/js/11.f1bf946b.chunk.js",
-    "static/js/787.5f518d96.chunk.js": "/static/js/787.5f518d96.chunk.js",
-    "index.html": "/index.html",
-    "main.2c0043cc.css.map": "/static/css/main.2c0043cc.css.map",
-    "main.a3c27537.js.map": "/static/js/main.a3c27537.js.map",
-    "311.b77f2172.chunk.js.map": "/static/js/311.b77f2172.chunk.js.map",
-    "11.f1bf946b.chunk.js.map": "/static/js/11.f1bf946b.chunk.js.map",
-    "787.5f518d96.chunk.js.map": "/static/js/787.5f518d96.chunk.js.map"
+    "main.css": "/Lingui-LastVersion/static/css/main.2c0043cc.css",
+    "main.js": "/Lingui-LastVersion/static/js/main.ce9b7872.js",
+    "static/js/311.b77f2172.chunk.js": "/Lingui-LastVersion/static/js/311.b77f2172.chunk.js",
+    "static/js/11.f1bf946b.chunk.js": "/Lingui-LastVersion/static/js/11.f1bf946b.chunk.js",
+    "static/js/787.5f518d96.chunk.js": "/Lingui-LastVersion/static/js/787.5f518d96.chunk.js",
+    "index.html": "/Lingui-LastVersion/index.html",
+    "main.2c0043cc.css.map": "/Lingui-LastVersion/static/css/main.2c0043cc.css.map",
+    "main.ce9b7872.js.map": "/Lingui-LastVersion/static/js/main.ce9b7872.js.map",
+    "311.b77f2172.chunk.js.map": "/Lingui-LastVersion/static/js/311.b77f2172.chunk.js.map",
+    "11.f1bf946b.chunk.js.map": "/Lingui-LastVersion/static/js/11.f1bf946b.chunk.js.map",
+    "787.5f518d96.chunk.js.map": "/Lingui-LastVersion/static/js/787.5f518d96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c0043cc.css",
-    "static/js/main.a3c27537.js"
+    "static/js/main.ce9b7872.js"
   ]
 }

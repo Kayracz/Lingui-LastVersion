@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/11.f1bf946b.chunk.js","mappings":"yFAAkBA,EAAOC,QAAQ,CAACC,SAAS,CAAC,GAAK,UAAU,OAAS,S","sources":["locales/es/messages.js"],"sourcesContent":["/*eslint-disable*/module.exports={messages:{\"Me\":\"Soy yo.\",\"Salute\":\"HOLAA\"}};"],"names":["module","exports","messages"],"sourceRoot":""}

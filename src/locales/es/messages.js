@@ -1,1 +1,1 @@
-/*eslint-disable*/module.exports={messages:{"Me":"Soy sho.","Salute":"HOLAA"}};
+/*eslint-disable*/module.exports={messages:{"Me":"Soy yo.","Salute":"HOLAA"}};

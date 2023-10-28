@@ -1,3 +1,7 @@
+body{
+	font-family: monospace;
+}
+
 .App {
 	text-align: center;
 }
@@ -45,8 +49,18 @@ button {
     border-color: whitesmoke;
     margin: 6px;
     font-size: 21px;
+    border: 1px solid turquoise;
+    box-shadow: 0px 4px 0px turquoise;
 }
 
 button:disabled {
   background-color: #00d6d6;
+  box-shadow: 0px 4px 0px rgb(211, 211, 211);
+}
+
+button:active {
+	transform: translate(0px,5px);
+    box-shadow: 0px 0px 0px rgb(211, 211, 211);
+	-webkit-transform: translate(0px,5px);
+	  border-bottom: 1px solid;
 }

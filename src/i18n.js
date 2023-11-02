@@ -1,6 +1,7 @@
 import { i18n } from "@lingui/core";
 import { detect, fromStorage, fromNavigator } from "@lingui/detect-locale";
 import { en, es, fr } from "make-plural/plurals";
+import "./app.css";
 
 i18n.loadLocaleData({
 	en: { plurals: en },

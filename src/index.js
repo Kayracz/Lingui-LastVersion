@@ -4,6 +4,7 @@ import { I18nProvider } from "@lingui/react";
 import { i18n } from "@lingui/core";
 import { getLocale, dynamicActivate } from "./i18n";
 import App from "./App";
+import "./app.css";
 
 dynamicActivate(getLocale());
 

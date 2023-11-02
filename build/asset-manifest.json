@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Lingui-LastVersion/static/css/main.2c0043cc.css",
+    "main.css": "/Lingui-LastVersion/static/css/main.24e11dd2.css",
     "main.js": "/Lingui-LastVersion/static/js/main.ac5d69d0.js",
     "static/js/311.b77f2172.chunk.js": "/Lingui-LastVersion/static/js/311.b77f2172.chunk.js",
     "static/js/11.a249add5.chunk.js": "/Lingui-LastVersion/static/js/11.a249add5.chunk.js",
     "static/js/787.5f518d96.chunk.js": "/Lingui-LastVersion/static/js/787.5f518d96.chunk.js",
     "index.html": "/Lingui-LastVersion/index.html",
-    "main.2c0043cc.css.map": "/Lingui-LastVersion/static/css/main.2c0043cc.css.map",
+    "main.24e11dd2.css.map": "/Lingui-LastVersion/static/css/main.24e11dd2.css.map",
     "main.ac5d69d0.js.map": "/Lingui-LastVersion/static/js/main.ac5d69d0.js.map",
     "311.b77f2172.chunk.js.map": "/Lingui-LastVersion/static/js/311.b77f2172.chunk.js.map",
     "11.a249add5.chunk.js.map": "/Lingui-LastVersion/static/js/11.a249add5.chunk.js.map",
     "787.5f518d96.chunk.js.map": "/Lingui-LastVersion/static/js/787.5f518d96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c0043cc.css",
+    "static/css/main.24e11dd2.css",
     "static/js/main.ac5d69d0.js"
   ]
 }

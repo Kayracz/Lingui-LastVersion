@@ -1,4 +1,4 @@
-import "./App.css";
+import "./app.css";
 import { Trans } from "@lingui/macro";
 import LanguageSelector from "./LanguageSelector";
 
